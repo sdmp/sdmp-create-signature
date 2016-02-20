@@ -1,6 +1,6 @@
 {
   "name": "sdmp-create-signature",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a valid SDMP signature container.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "sdmp"
   ],
   "author": "saibotsivad",
-  "license": "ISC",
+  "license": "VOL",
   "bugs": {
     "url": "https://github.com/sdmp/sdmp-create-signature/issues"
   },
