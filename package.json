@@ -1,6 +1,6 @@
 {
   "name": "sdmp-create-signature",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a valid SDMP signature container.",
   "main": "index.js",
   "scripts": {
